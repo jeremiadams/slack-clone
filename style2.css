@@ -1,0 +1,48 @@
+
+.header-logo{
+	float: left;
+	font-family: Lato;
+	font-size: 30px;
+	padding-left: 30px
+
+
+}
+
+
+.header .sel{
+	list-style: none;
+	float: left;
+	padding: 11px 14px 11px 20px;
+	font-family: Lato;
+
+}
+
+.header .lec{
+	list-style: none;
+	float: right;
+	font-family: Lato;
+	padding: 11px 15px 11px 10px;
+}
+
+
+.header .ted{
+	list-style: none;
+	float: right;
+	font-family: Lato;
+	padding: 11px 50px 11px 10px;
+}
+.bodyone p{
+	height: 300px;
+	width: 300px;
+}
+.bodyone img{
+	padding-left: 80px;
+	padding-top: 80px;
+	height: 500px;
+}
+
+
+
+
+
+
